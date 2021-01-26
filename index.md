@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-**Lingyun (Ivy) Xiong**, DPhil Candidate \
+## **Lingyun (Ivy) Xiong**, DPhil Candidate 
 Systems Biology, MPLS Doctoral Training Center \
 Ludwig Institute for Cancer Research \
 Wellcome Centre for Human Genetics \
