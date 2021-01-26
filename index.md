@@ -12,7 +12,7 @@ University of Oxford
 
 ## **Education** 
 
-* B.Sc in Biochemistry, University of Hong Kong (2016) 
-* Study abroad in Biology, University of California San Diego (2015)
+B.Sc in Biochemistry, University of Hong Kong (2016) 
+Study abroad in Biology, University of California San Diego (2015)
 
 
