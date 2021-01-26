@@ -17,8 +17,8 @@ University of Oxford
 
 
 ## **Current Research Topics**
-- Towards a unified dynamical theory of oncogenic alterations in human cancers. 
-- Inherited genetic variants by somatic driver mutations interactions during tumorigenesis. 
-- Evaluating the role of inherited genetic variants on cancer risk, anti-tumor immune response and prognosis.
-- Network and dynamical modeling of mammalian transcriptome. 
+* Towards a unified dynamical theory of oncogenic alterations in human cancers. 
+* Inherited genetic variants by somatic driver mutations interactions during tumorigenesis. 
+* Evaluating the role of inherited genetic variants on cancer risk, anti-tumor immune response and prognosis.
+* Network and dynamical modeling of mammalian transcriptome. 
 
